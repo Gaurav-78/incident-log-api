@@ -39,7 +39,7 @@ gem install rails
 '''
 
 #clone this repository
--git clone <repository-url>
+-git clone https://github.com/Gaurav-78/incident-log-api.git
 -cd incident_log_api
 
 
