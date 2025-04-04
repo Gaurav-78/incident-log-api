@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # incident-log-api
 ## **Overview**
 This is a RESTful API built with **Ruby on Rails** that allows users to **log, retrieve, and delete AI safety incidents**. It provides CRUD operations for managing incidents with a **PostgreSQL database**.
@@ -183,3 +184,29 @@ Server Not Running? Start with:
 Check Logs for Errors: Run:
 -rails logs
 
+=======
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+>>>>>>> c0916af (Initial commit - AI Safety Incident Log API)
